@@ -66,5 +66,3 @@ To get started with Chaos Cryptography, you can follow these steps:
 
 2. Build and run the app on your preferred platform (iOS/Android).
 
-### Contact
-If you have any questions, suggestions, or need support, feel free to contact us at prashantandoriya@gmail.com.
